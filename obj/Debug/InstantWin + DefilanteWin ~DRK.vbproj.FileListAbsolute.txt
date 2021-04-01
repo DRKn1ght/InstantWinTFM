@@ -1,0 +1,50 @@
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.exe
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.pdb
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.xml
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin___DefilanteWin__DRK.Resources.resources
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.vbproj.GenerateResource.Cache
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.exe
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.xml
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.pdb
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin___DefilanteWin__DRK.Form1.resources
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin___DefilanteWin__DRK.Manual.resources
+C:\Users\DRK\AppData\Local\Temporary Projects\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin___DefilanteWin__DRK.Automático.resources
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.exe
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.xml
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.pdb
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.exe.config
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Automático.resources
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Form1.resources
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Manual.resources
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Resources.resources
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.vbproj.GenerateResource.Cache
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.exe
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.pdb
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.xml
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.exe.manifest
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.application
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.TrustInfo.xml
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.exe.manifest
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.application
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.exe.config
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.exe
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.xml
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.pdb
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.exe.manifest
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.application
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.exe
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.pdb
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\InstantWin + DefilanteWin ~DRK.xml
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Automático.resources
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Form1.resources
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Manual.resources
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Resources.resources
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.vbproj.GenerateResource.Cache
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.TrustInfo.xml
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.exe.manifest
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\InstantWin + DefilanteWin ~DRK.application
+C:\Users\DRKnight\Desktop\Arquivos outros pc\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Form2.resources
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Form2.resources
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\bin\Debug\Skybound.Gecko.dll
+C:\Users\DRK\Desktop\Projetos\InstantWin + DefilanteWin ~DRK\InstantWin + DefilanteWin ~DRK\obj\Debug\DRK.Form3.resources
