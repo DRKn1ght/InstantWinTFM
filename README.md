@@ -1,6 +1,6 @@
 # Instant Win TFM (Transformice)
 
-O Instant Win TFM é um projeto para o jogo Transformice que utiliza o módulo ReadWritingMemory em C# para realizar um acesso direto à memória do jogo, permitindo ao jogador vencer a partida instantaneamente.
+O Instant Win TFM é um projeto para o jogo Transformice que utiliza o módulo ReadWritingMemory em VB para realizar um acesso direto à memória do jogo, permitindo ao jogador vencer a partida instantaneamente.
 
 ## Funcionamento
 
